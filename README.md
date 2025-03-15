@@ -1,7 +1,6 @@
 <div align="center">
-  <!-- Header GIF -->
-  <iframe src="https://giphy.com/embed/pUVOeIagS1rrqsYQJe" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  <p><a href="https://giphy.com/gifs/help-harold-hide-the-pain-pUVOeIagS1rrqsYQJe">via GIPHY</a></p>
+
+  ![Demo GIF](./assets/giphy.gif)
   
   <h1 style="margin-top: 1rem; font-size: 2.5rem;">Hey, I'm lester</h1>
   <p style="font-size: 1.2rem; opacity: 0.8;">I like coding.</p>
