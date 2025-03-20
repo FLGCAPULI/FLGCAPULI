@@ -3,13 +3,16 @@
 
   ![Demo GIF](./assets/giphy.gif)
   
-  <h1 style="margin-top: 1rem; font-size: 2.5rem;">Yo!</h1>
+  <h1 style="margin: 1rem 0; font-size: 2.8rem; position: relative;">
+    🚀 Yo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  </h1>
 
 </div>
 
 ###
 
 <div align="center">
+
   <a href="https://discord.com/users/totobeee" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
   </a>
@@ -24,6 +27,11 @@
 ###
 
 <div align="center">
+  
+   ### 🛠️ Tech Stack 🛠️
+
+  ----
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -42,6 +50,7 @@
 ###
 
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=FLGCAPULI&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FLGCAPULI&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="140" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=FLGCAPULI&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
@@ -56,7 +65,11 @@
 
 ###
 
+  ----
+
 <h6 align="center">me love coding</h6>
+
+  ----
 
 ###
 
@@ -71,13 +84,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FLGCAPULI/FLGCAPULI/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FLGCAPULI/FLGCAPULI/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/‎otot">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%E2%80%8Eotot&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
